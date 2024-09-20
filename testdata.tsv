@@ -1,0 +1,4 @@
+ExpenseName    Amount    PaidBy    Participants
+Dinner         100.00    A         A,B,C,D
+Movie          50.00     B         A,B,C
+Taxi           30.50     C         B,C,D
