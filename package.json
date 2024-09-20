@@ -1,0 +1,21 @@
+{
+  "name": "SplitSage",
+  "version": "1.0.0",
+  "description": "An intelligent travel expense splitter among friends.",
+  "main": "SplitSageDG.ts",
+  "scripts": {
+    "start": "npx ts-node src/SplitSageDG.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/node": "^22.5.5",
+    "@types/uuid": "^10.0.0",
+    "ts-node": "^10.9.2",
+    "ts-graphviz": "^2.1.3",
+    "typescript": "^5.6.2",
+    "uuid": "^10.0.0"
+  },
+  "keywords": ["expense", "travel", "splitter"],
+  "author": "Kenneth Ham",
+  "license": "MIT"
+}
